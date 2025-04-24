@@ -61,9 +61,9 @@ The graph above shows the **Objective Function Value vs Iteration** during train
 | Model             | Accuracy | Training Time |
 |------------------|----------|----------------|
 | VQC (Quantum)    | ~59%     | 374.69s        |
-| SVC (Classical)  | ~98%     | ~Z seconds     |
+| SVC (Classical)  | ~98%     | 15 s           |
 
-> 📌 Replace `XX`, `YY`, and `Z` with your actual values.
+
 
 ---
 
